@@ -7,10 +7,10 @@ developer while exploring different aspects of software development.
 ## Tech Stack
 
 **Languages:** Java · Dart · Pick Basic
-**Mobile:** Flutter  
 **Web:** HTML · CSS · JavaScript  
-**Databases:** MySQL · PostgreSQL · Universe  
-**Tools:** Git · Docker · Android Studio
+**Mobile:** Flutter  
+**Databases:** MySQL · PostgreSQL · UniVerse  
+**Tools:** Git · Docker · Android Studio · Unity
 
 ## Certifications
 

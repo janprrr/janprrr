@@ -12,6 +12,12 @@ developer while exploring different aspects of software development.
 **Databases:** MySQL · PostgreSQL · Universe  
 **Tools:** Git · Docker · Android Studio
 
+## Certifications
+
+- [Python — Kaggle](link soon)
+- [Pandas — Kaggle](link soon)
+- 🇬🇧 English C1 — Cambridge
+
 ## Experience
 
 **Junior Developer** — BonÀrea  

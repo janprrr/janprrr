@@ -18,8 +18,6 @@ developer while exploring different aspects of software development.
 
 ## Certifications
 
-- [Python — Kaggle](link soon)
-- [Pandas — Kaggle](link soon)
 - 🇬🇧 English C1 — Cambridge
 
 ## Experience
@@ -29,6 +27,12 @@ developer while exploring different aspects of software development.
 
 Building and maintaining internal applications using Pick Basic and Flutter,
 integrating REST APIs and handling data retrieval and visualization.
+
+**IT technician** — Seguí Clima 
+*April 2023 – May 2024 · Tarrega, Spain*
+
+Acted as the primary point of responsibility for maintaining and supporting IT infrastructure, 
+network systems, and hardware across multiple locations, both remotely and on-site.
 
 ## Currently
 
@@ -49,4 +53,4 @@ integrating REST APIs and handling data retrieval and visualization.
 
 ---
 
-Open to junior positions in AI, data engineering or full-stack development.
+Open to junior positions in backend, frontend, full-stack development, and data engineering.

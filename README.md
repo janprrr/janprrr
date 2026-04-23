@@ -6,7 +6,7 @@ developer while exploring different aspects of software development.
 
 ## Tech Stack
 
-**Languages:** Java · Flutter · Pick Basic
+**Languages:** Java · Dart · Pick Basic
 
 **Web:** HTML · CSS · JavaScript
 

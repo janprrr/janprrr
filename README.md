@@ -53,7 +53,7 @@ network systems, and hardware across multiple locations, both remotely and on-si
 ## Get in touch
 
 - Gmail: janpr1768@gmail.com
-- LinkedIn: *coming soon*
+- LinkedIn: www.linkedin.com/in/janpros
 
 ---
 

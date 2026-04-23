@@ -23,12 +23,16 @@ developer while exploring different aspects of software development.
 ## Experience
 
 **Junior Developer** — BonÀrea  
+
 *June 2025 – Present · Guissona, Spain*
 
 Building and maintaining internal applications using Pick Basic and Flutter,
 integrating REST APIs and handling data retrieval and visualization.
 
-**IT technician** — Seguí Clima 
+##
+
+**IT technician** — Seguí Clima
+
 *April 2023 – May 2024 · Tarrega, Spain*
 
 Acted as the primary point of responsibility for maintaining and supporting IT infrastructure, 
@@ -38,7 +42,7 @@ network systems, and hardware across multiple locations, both remotely and on-si
 
 - Completing Software development course  
 - Building projects implementing a conection with a database
-  and a user firiendly UI    
+  and a user friendly UI    
 
 ## Languages
 
